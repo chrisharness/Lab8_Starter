@@ -1,4 +1,4 @@
-# Lab 8 - Starter Chris Harness
+# Lab 8 - Chris Harness
 
 ### Questions
 
